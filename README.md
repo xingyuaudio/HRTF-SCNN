@@ -14,10 +14,10 @@ Here's a brief overview of the repository's structure:
 
 ## Citation
 ```
-@article{chen2023sound,
+@article{chen2023head,
   title={Head-Related Transfer Function Interpolation with a Spherical CNN},
-  author={Chen, Xingyu; Ma, Fei; Zhang, Yile; Bastine, Amy; Samarasinghe, Prasanga},
-  journal={arXiv preprint arXiv:307.14013},
+  author={Chen, Xingyu and Ma, Fei and Zhang, Yile and Bastine, Amy and Samarasinghe, Prasanga N},
+  journal={arXiv preprint arXiv:2309.08290},
   year={2023}
 }
 ```
