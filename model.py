@@ -86,7 +86,7 @@ class SCNN(nn.Module):
         """
         super().__init__()
 
-        self.first = nn.Sequential(ISHT1(Y))
+        self.first = nn.Sequential(SHT(8, Y_inv, area),ISHT1(Y))
         self.shconv1 = nn.Sequential(SHT(L, Y_inv, area), SHConv(in_ch, 93*2, L), ISHT1(Y))
         self.shconv2 = nn.Sequential(SHT(16, Y_inv, area), SHConv(93*2, out_ch, 16), ISHT1(Y))
         self.final = nn.Sequential(SHT(16, Y_inv, area),ISHT2(Y480_289))
