@@ -2,6 +2,8 @@
 Official implementation of the paper "Head-Related Transfer Function Interpolation with a Spherical CNN".
 [[arXiv](https://arxiv.org/abs/2307.14013)]
 
+We appreciate the reviews and comments from ICASSP2024. Adjustments have been made based on the feedback to address some errors and improve our paper. An updated version will be uploaded in December.
+
 ##  Note
 Our paper has been submitted to ICASSP 2024, and we intend to release the complete code after the results are announced on December 13th. Stay tuned for updates!
 
