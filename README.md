@@ -30,6 +30,4 @@ Cohen, T. S., Geiger, M., Köhler, J., & Welling, M. (2018). Spherical cnns. arX
 Esteves, C., Allen-Blanchette, C., Makadia, A., & Daniilidis, K. (2018). Learning so (3) equivariant representations with spherical cnns. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 52-68).
 
 Brinkmann, F., Dinakaran, M., Pelzer, R., Wohlgemuth, J. J., Seipel, F., Voss, D., ... & Weinzierl, S. (2019). The HUTUBS head-related transfer function (HRTF) database.
-
-
 ```
